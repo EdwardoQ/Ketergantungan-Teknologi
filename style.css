@@ -1,0 +1,25 @@
+body {
+    font-family: Arial,  sans-serif; /* keluarga font */
+    font-size: 11px; /* Ukuran font utama pada tag <p></p> */
+    background-color: #39b9e7; /* Warna latar belakang laman web */
+    color: #ffffff; /* Warna teks */ 
+}
+h1 {
+    color: #000000; /* Warna tajuk (header)*/
+    font-size: 32px; /* Ukuran font tajuk (header) */
+    font-family: Georgia, serif; /* Keluarga font yang digunakan di tajuk (header) */
+    font-weight: lighter;
+}
+
+h3 {
+    color: #323232; /* Warna tajuk (header)*/
+    font-size: 14px; /* Ukuran font tajuk (header) */
+    font-family: Arial,  sans-serif; /* Keluarga font yang digunakan di tajuk (header) */
+}
+
+img {
+    border-radius: 5%;
+    border-style: groove;
+    border-color: darkgoldenrod;
+    border-width: 2cap;
+}
